@@ -1,0 +1,33 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+}
+
+th, td {
+    border: 1px solid #000;
+    padding: 10px;
+    text-align: center;
+}
+
+.title {
+    background-color: yellow;
+    font-weight: bold;
+    font-size: 1.2em;
+}
+
+th {
+    background-color: #f7f7f7;
+    font-weight: bold;
+}
+
+.home {
+    background-color: pink;
+    font-weight: bold;
+    text-align: center;
+    color: black;
+}
